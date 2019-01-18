@@ -1,0 +1,36 @@
+/* Syntax: refer to the style object, then: attribute: style  --> */
+/* This is how to style a HTML sheet */
+
+body{ 
+    font-family: arial;
+}
+body {
+    background-color: orchid;
+}
+
+h1 {
+    color: red;
+    font-size: 150px;
+}
+/* in order to make changes to HTML using CSS we need to be able to identify all attributes --> add ID attributes in HTML */
+
+
+#second{
+    color: orange;
+}
+
+img{
+    width: 200px;
+}
+
+
+/* Classes to be used in styleing */
+.first{ 
+    color: blue;
+}
+
+/* you can select only paragraphs, heading and other style attributes belonging to a certain class type */
+p.description{
+    color: blue;
+}
+/* depending in the browser, style sheets change and we need to find the different style finishes to get if not primary colors */
