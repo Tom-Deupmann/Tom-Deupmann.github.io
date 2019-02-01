@@ -1,0 +1,25 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+
+.nav-link {
+    font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar-brand img{
+    width: 150px;
+}
+
+.jumbotron{
+    background-image: url(Black\ Tusk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    padding-top: 50px;
+}
+
